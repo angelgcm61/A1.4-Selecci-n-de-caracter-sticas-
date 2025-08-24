@@ -4,7 +4,7 @@ Analizaremos los datos sobre el vino tinto, mas específicamente nos enfocaremos
 Para esto realizaremos una metodología tanto de selección hacia adelante como hacia atrás sacando sus R² para poder asi compararlas entre si, viendo cual es la mas eficiente, minimo con estos datos.
 
 La base de datos cuenta con la siguiente información:
-- “acidezFija”. La acidez fija del vino, medida en gramos de ácido tartárico por decímetro cúbico.
+- acidezFija: La acidez fija del vino, medida en gramos de ácido tartárico por decímetro cúbico.
 - acidezVolatil: La acidez volátil del vino, medida en gramos de ácido acético por decímetro cúbico.
 - acidoCitrico: Gramos de tácito cítrico por decímetro cúbico.
 - azucarResidual: Gramos de azúcar por decímetro cúbico.
