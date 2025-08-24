@@ -1,5 +1,8 @@
 # A1.4-Seleccion-de-caracteristicas
 
+Analizaremos los datos sobre el vino tinto, mas específicamente nos enfocaremos en comparar la calidad de este en contra de los demás datos.
+Para esto realizaremos una metodología tanto de selección hacia adelante como hacia atrás sacando sus R² para poder asi compararlas entre si, viendo cual es la mas eficiente, minimo con estos datos.
+
 La base de datos cuenta con la siguiente información:
 - “acidezFija”. La acidez fija del vino, medida en gramos de ácido tartárico por decímetro cúbico.
 - acidezVolatil: La acidez volátil del vino, medida en gramos de ácido acético por decímetro cúbico.
